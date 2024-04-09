@@ -1,10 +1,10 @@
 <pre>
-     _ _                        _            
-  __| (_) __ _  /\/\   __ _ ___| |_ ___ _ __ 
+     _ _                        _
+  __| (_) __ _  /\/\   __ _ ___| |_ ___ _ __
  / _` | |/ _` |/    \ / _` / __| __/ _ | '__|
-| (_| | | (_| / /\/\ | (_| \__ | ||  __| |   
- \__,_|_|\__, \/    \/\__,_|___/\__\___|_|   
-         |___/                               
+| (_| | | (_| / /\/\ | (_| \__ | ||  __| |
+ \__,_|_|\__, \/    \/\__,_|___/\__\___|_|
+         |___/
 
             by @Sahil Ojha
 </pre>
@@ -19,6 +19,7 @@ digMaster is a command-line tool written in Go for performing DNS lookups. It al
 # Usage
    ```
     digmaster -s subdomains.txt
+    digmaster -h  
    ```
 
 # Features:
